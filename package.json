@@ -1,11 +1,11 @@
 {
-  "name": "content-moderation-image-api",
-  "version": "0.1.0",
-  "description": "Ready-to-use Node.JS REST API for classification of indecent images.",
+  "name": "mosaik-ai",
+  "version": "0.4.0",
+  "description": "AI Side of Mosaik",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SashiDo/content-moderation-image-api.git"
+    "url": "https://gitlab.informatika.org/if3250_2022_37_mosaik/mosaik-ai"
   },
   "license": "MIT",
   "engines": {
