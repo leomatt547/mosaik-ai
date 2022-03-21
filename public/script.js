@@ -2,7 +2,7 @@ const img = new Image();
 img.crossOrigin = "anonymous";
 // some image here
 const params = new URLSearchParams(window.location.search)
-img.src = params.get('img');
+img.src = params.get('image');
 // Load the model.
 nsfwjs.load().then((model) => {
   // Classify the image.
