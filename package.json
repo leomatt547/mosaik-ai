@@ -1,0 +1,19 @@
+{
+  "name": "mosaik-ai",
+  "version": "1.0.0",
+  "description": "Artificial intelligence side of Mosaik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.informatika.org/if3250_2022_37_mosaik/mosaik-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
